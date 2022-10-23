@@ -1,0 +1,11 @@
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\bin\Debug\ders-bir.exe.config
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\bin\Debug\ders-bir.exe
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\bin\Debug\ders-bir.pdb
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders-bir.csproj.AssemblyReference.cache
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders-bir.csproj.SuggestedBindingRedirects.cache
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders_bir.Form1.resources
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders_bir.Properties.Resources.resources
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders-bir.csproj.GenerateResource.cache
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders-bir.csproj.CoreCompileInputs.cache
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders-bir.exe
+C:\Users\m5458\Desktop\C# Dersleri\ders-bir\obj\Debug\ders-bir.pdb

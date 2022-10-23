@@ -1,0 +1,10 @@
+C:\Users\m5458\Desktop\FormCalısmam\bin\Debug\FormCalısmam.exe.config
+C:\Users\m5458\Desktop\FormCalısmam\bin\Debug\FormCalısmam.exe
+C:\Users\m5458\Desktop\FormCalısmam\bin\Debug\FormCalısmam.pdb
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.csproj.AssemblyReference.cache
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.Form1.resources
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.Properties.Resources.resources
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.csproj.GenerateResource.cache
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.csproj.CoreCompileInputs.cache
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.exe
+C:\Users\m5458\Desktop\FormCalısmam\obj\Debug\FormCalısmam.pdb

@@ -1,0 +1,11 @@
+C:\Users\m5458\Desktop\C# Dersleri\dersler\bin\Debug\dersler.exe.config
+C:\Users\m5458\Desktop\C# Dersleri\dersler\bin\Debug\dersler.exe
+C:\Users\m5458\Desktop\C# Dersleri\dersler\bin\Debug\dersler.pdb
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.csproj.AssemblyReference.cache
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.Form1.resources
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.Properties.Resources.resources
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.csproj.GenerateResource.cache
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.csproj.CoreCompileInputs.cache
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.exe
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.pdb
+C:\Users\m5458\Desktop\C# Dersleri\dersler\obj\Debug\dersler.Form2.resources

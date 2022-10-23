@@ -1,0 +1,2 @@
+C:\Users\m5458\Desktop\Dortislemdll\Dortislemdll\obj\Debug\Dortislemdll.csprojAssemblyReference.cache
+C:\Users\m5458\Desktop\Dortislemdll\Dortislemdll\obj\Debug\Dortislemdll.csproj.CoreCompileInputs.cache

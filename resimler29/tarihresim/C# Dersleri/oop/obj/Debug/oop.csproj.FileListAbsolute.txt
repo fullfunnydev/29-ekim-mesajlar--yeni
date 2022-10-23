@@ -1,0 +1,11 @@
+C:\Users\m5458\Desktop\C# Dersleri\oop\bin\Debug\oop.exe.config
+C:\Users\m5458\Desktop\C# Dersleri\oop\bin\Debug\oop.exe
+C:\Users\m5458\Desktop\C# Dersleri\oop\bin\Debug\oop.pdb
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.Form1.resources
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.Properties.Resources.resources
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.csproj.GenerateResource.cache
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.exe
+C:\Users\m5458\Desktop\C# Dersleri\oop\obj\Debug\oop.pdb

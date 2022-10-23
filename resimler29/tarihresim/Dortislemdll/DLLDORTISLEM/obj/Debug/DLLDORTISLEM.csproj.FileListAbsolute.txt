@@ -1,0 +1,6 @@
+C:\Users\m5458\Desktop\Dortislemdll\DLLDORTISLEM\bin\Debug\DLLDORTISLEM.dll
+C:\Users\m5458\Desktop\Dortislemdll\DLLDORTISLEM\bin\Debug\DLLDORTISLEM.pdb
+C:\Users\m5458\Desktop\Dortislemdll\DLLDORTISLEM\obj\Debug\DLLDORTISLEM.csprojAssemblyReference.cache
+C:\Users\m5458\Desktop\Dortislemdll\DLLDORTISLEM\obj\Debug\DLLDORTISLEM.csproj.CoreCompileInputs.cache
+C:\Users\m5458\Desktop\Dortislemdll\DLLDORTISLEM\obj\Debug\DLLDORTISLEM.dll
+C:\Users\m5458\Desktop\Dortislemdll\DLLDORTISLEM\obj\Debug\DLLDORTISLEM.pdb
